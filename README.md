@@ -17,4 +17,4 @@
 
 ### 🌵 Remind Technical Interview
 
-- [stack과 heap의 차이] (./docs/interview/DiffToStackAndHeap.md)
+- * [stack과 heap의 차이](./docs/interview/DiffToStackAndHeap.md)
