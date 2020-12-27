@@ -4,7 +4,7 @@
 ### ☝ Language
 
 - #### JAVA
-- ### JAVASCRIPT
+- #### JAVASCRIPT
 
 ### ✌ Data Structure
 
