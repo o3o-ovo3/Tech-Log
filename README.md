@@ -1,20 +1,20 @@
 # 💻Tech-Log
 #### 배운 것을 기록하기 
 
-## ☝ Language
+### ☝ Language
 
-- ### JAVA
+- #### JAVA
 - ### JAVASCRIPT
 
-## ✌ Data Structure
+### ✌ Data Structure
 
-- ### 🔥Roading🔥
+- #### 🔥Roading🔥
 
-## 🤟 Database
+### 🤟 Database
 
-- ### 🔥Roading🔥
+- #### 🔥Roading🔥
 
 
-## 🌵 Remind Technical Interview
+### 🌵 Remind Technical Interview
 
-- 
+- [stack과 heap의 차이] (./docs/interview/DiffToStackAndHeap.md)
