@@ -20,4 +20,4 @@
 - 다른 패키지와의 클래스 선언과 생성자, 메소드, 필드의 호출이 불가능
 - 동일 패키지 안에서는 모든게 허용됨
 
-<img src="./resources/접근제한자(Access Modifier).png" width="500px">
+<img src="../../resources/접근제한자(Access Modifier).png" width="500px">
