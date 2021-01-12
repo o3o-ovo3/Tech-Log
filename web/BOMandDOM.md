@@ -49,7 +49,8 @@
 
   ​	ex. body 내부에 img 요소 등	
 
-  <img src="../resources/DOM.jpg" height="200px" align="center">
+  <img src="../
+  /DOM.jpg" height="200px" align="center">
 
   ​	문서 (열려있는 페이지)에 대한 모든 정보를 객체화 시켜 관리한다.
 
@@ -57,7 +58,7 @@
 
 - DOM tree 구조
 
-  <img src="resources/domtree.jpg" height="400px" align="center">
+  <img src="../resources/domtree.jpg" height="400px" align="center">
 
   - 웹 문서의 요소를 계층적 구조로 인식하는 DOM 구조는 노드와 가지로 표현한다.
     - 문서 노드 (Document Node) : 최상위 노드로, 하위 노드에 접근하기 위해 거친다.
