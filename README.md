@@ -1,19 +1,25 @@
 # 💻Tech-Log
 #### 배운 것을 기록하기 
 
-### ☝ Language
+### 🔴 WEB
 
-- #### JAVA
-- #### JAVASCRIPT
+- #### [BOM과 DOM](./web/BOMandDOM.md)
+- #### [쿠키와 세션](./web/CookieAndSession.md)
+- #### [CSR과 SSR](./web/CSRandSSR.md)
 
-### ✌ Data Structure
+### 🟠 OS
 
-- #### 🔥Roading🔥
+- #### [프로세스와 쓰레드](./os/ProcessAndThread.md)
 
-### 🤟 Database
+### 🟡 SW
 
-- #### 🔥Roading🔥
+- #### [TDD](./sw/Tdd.md)
+- #### [MVC 패턴](./sw/MVC.md)
+- #### [프로그래밍 패러다임](./sw/ProgrammingParadigm.md)
 
+### 🟢 Network
+
+- #### [OSI 7계층](./network/OSI7layer.md)
 
 ### 🌵 Remind Technical Interview
 
