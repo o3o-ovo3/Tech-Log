@@ -24,11 +24,19 @@
 - #### [TDD](./sw/Tdd.md)
 - #### [MVC 패턴](./sw/MVC.md)
 - #### [프로그래밍 패러다임](./sw/ProgrammingParadigm.md)
+- #### [싱글톤 패턴](./sw/Singleton.md)
+- #### [Docker](./sw/Docker.md)
 <br/>
 
 ### 🟢 Network
 
 - #### [OSI 7계층](./network/OSI7layer.md)
+- #### [HTTP와 HTTPS](./network/HttpAndHttps.md)
+<br/>
+
+### 🔵 Java
+- #### [자바 언어의 동작 원리](./java/JavaOperation.md)]
+
 <br/>
 
 ### 🌵 Remind Technical Interview
