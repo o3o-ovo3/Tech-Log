@@ -45,7 +45,7 @@
     >
     > - 리액트로 작성된 화면은 컴포넌트만으로 구성되어 다른 화면에서 다시 쓰거나 다른 프로젝트에서 다시 쓰일 수 있다.
     >
-    > <img src='resources/component.png' align='center' width='500px'>
+    > <img src='../resources/component.png' align='center' width='500px'>
 
     <br/>
 
@@ -107,7 +107,7 @@
     >
     > - 화면을 모델 - 뷰 - 뷰 - 모델로 구조화 하여 개발하는 방식
     >
-    > <img src='resources/MVVM.png' width='400px' align='center'>
+    > <img src='../resources/MVVM.png' width='400px' align='center'>
 
   - 컴포넌트 기반 프레임워크로 재사용성이 뛰어나다.
 
