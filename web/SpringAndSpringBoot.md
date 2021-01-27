@@ -29,7 +29,7 @@
 
     <br/>
 
-    <img src='resources/spring.jpg' align='center' width='450px'>
+    <img src='../resources/spring.jpg' align='center' width='450px'>
 
 <br/>
 
