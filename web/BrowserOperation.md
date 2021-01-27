@@ -21,7 +21,7 @@
   > 5. Content Download : 해당 요청이 Server에 도달하면 사용자가 원하는 문서를 다시 웹 브라우저에 전송
   > 6. Browser Rendering : 웹 브라우저의 렌더링 엔진에서 해당 문서를 파싱
   >
-  > <img src='resources/browserParse.png' align='center' width='500px'>
+  > <img src='../resources/browserParse.png' align='center' width='500px'>
 
 <br/>
 
@@ -43,7 +43,7 @@
 
 - <b>브라우저의 구조</b>
 
-  <img src='resources/browserStruct.png' width='400px' align='center'>
+  <img src='../resources/browserStruct.png' width='400px' align='center'>
 
   - 사용자 인터페이스 (UI)
 
@@ -114,7 +114,7 @@
   >
   > - 렌더링 동작 과정 
   >
-  >   <img src='resources/rendering.png' width='500px' align='center'>
+  >   <img src='../resources/rendering.png' width='500px' align='center'>
   >
   >   1. DOM tree 생성
   >   2. CSSOM 생성
@@ -130,7 +130,7 @@
   > - 파싱 결과는 보통 문서 구조를 나타내는 Node Tree이다.
   > - 어휘 분석과 구문 분석 과정을 통해 파싱 트리를 구축한다.
   >
-  > <img src='resources/parsing.png' width='100px' align='cetner'>
+  > <img src='../resources/parsing.png' width='100px' align='cetner'>
 
   <br/>
 
@@ -140,11 +140,11 @@
   > - 문서 마크업의 속성과 관계를 포함한다.
   > - DOM은 마크업과 1:1 관계를 맺는다.
   >
-  > <img src='resources/domtreecode.png' width='400px' align='cetner'>
+  > <img src='../resources/domtreecode.png' width='400px' align='cetner'>
   >
   > <br/>
   >
-  > <img src='resources/domtreenode.png' width='400px' align='cetner'>
+  > <img src='../resources/domtreenode.png' width='400px' align='cetner'>
   >
   > <br/>
   >
