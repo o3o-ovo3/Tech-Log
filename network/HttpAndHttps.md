@@ -22,7 +22,7 @@
 
 - HTTP의 구조
 
-  <img src='resources/http.png' align='center' width='450px'>
+  <img src='../resources/http.png' align='center' width='450px'>
 
 
   - 애플리케이션 레벨의 프로토콜로, TCP/IP 위에서 작동한다.
@@ -56,7 +56,7 @@
       > 개인키는 나만 가지고 알고 있어야 하는 키이다.
       > ```
       >
-      > <img src='resources/secure.png' width='400px' align='center'>
+      > <img src='../resources/secure.png' width='400px' align='center'>
       >
       > - 공개키 암호화 : 자신만 볼 수 있는 <b>개인키</b>로만 복호화 할 수 있음
       > - 개인키 암호화 : <b>공개키</b>로만 복호화할 수 있음, 공개키는 모두에게 공개되어 있어 내가 인증한 정보임을 알려 신뢰성을 보장할 수 있음
@@ -74,7 +74,7 @@
 
   - 인증서 발급
 
-    <img src='resources/httpsProc.png' align='center' width='500px'>
+    <img src='../resources/httpsProc.png' align='center' width='500px'>
 
     1. 인터넷 사이트는 자신의 정보와 공개키를 인증 기관에 제출한다.
 
@@ -86,7 +86,7 @@
 
   - 사용자의 사이트 접속
 
-    <img src='resources/httpsProc2.png' align='center' width='500px'>
+    <img src='../resources/httpsProc2.png' align='center' width='500px'>
 
     1. 사용자가 사이트에 접속하여 자신의 인증서를 웹 브라우저에 보낸다.
     2. 브라우저는 미리 받아둔 인증기관의 공개키로 인증서를 해독하여 검증하고, 사이트의 정보와 사이트의 공개키를 알게 된다.
@@ -95,7 +95,7 @@
 
     <br>
 
-    <img src='resources/httpsProc3.png' width='500px' align='center'>
+    <img src='../resources/httpsProc3.png' width='500px' align='center'>
 
   <br/>
 
