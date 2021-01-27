@@ -35,7 +35,7 @@
 <br/>
 
 ### 🔵 Java
-- #### [자바 언어의 동작 원리](./java/JavaOperation.md)]
+- #### [자바 언어의 동작 원리](./java/JavaOperation.md)
 
 <br/>
 
