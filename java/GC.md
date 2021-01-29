@@ -50,7 +50,7 @@
 
 - <b>GC의 특징</b>
 
-  <img src='resources/garbage.png' width='400px' align='center'>
+  <img src='../resources/garbage.png' width='400px' align='center'>
 
   - 객체들은 Heap 영역에 생성된다.
   - Heap에 새로운 객체 생성 시, 공간이 부족하면 JVM은 OutOfMemoryGC를 뿌린다.
@@ -62,9 +62,9 @@
 
   > <b>GC 전 후의 메모리</b>
   >
-  > <img src='resources/beforeGC.png' width='500px' align='center'>
+  > <img src='../resources/beforeGC.png' width='500px' align='center'>
   >
-  > <img src='resources/afterGC.png' width='500px' align='center'>
+  > <img src='../resources/afterGC.png' width='500px' align='center'>
   >
   > <br/>
   >
@@ -92,7 +92,7 @@
 
   > <b>JVM 메모리 영역</b>
   >
-  > <img src='resources/JVMmemory.png' width='450px' align='center'>
+  > <img src='../resources/JVMmemory.png' width='450px' align='center'>
   >
   > - 세가지 영역으로 나뉜다. (Young, Old, Perm)
   >
@@ -160,7 +160,7 @@
   >
   >   1. Marking
   >
-  >      <img src='resources/Marking.jpg' width='400px' align='center'>
+  >      <img src='../resources/Marking.jpg' width='400px' align='center'>
   >
   >      - 프로세스는 마킹을 호출한다.
   >        - 메모리가 사용되는지 안되는지를 찾아낸다.
@@ -171,7 +171,7 @@
   >
   >   2. Normal Deletion
   >
-  >      <img src='resources/Deletion.png' width='400px' align='center'>
+  >      <img src='../resources/Deletion.png' width='400px' align='center'>
   >
   >      - 참조되지 않는 객체를 제거하고, 메모리를 반환한다.
   >      - 메모리 Allocator는 반환되어 비어진 블럭의 참조 위치를 저장해두고, 새로운 오브젝트가 선언되면 할당되도록 한다.
@@ -180,7 +180,7 @@
   >
   >   3. Compacting
   >
-  >      <img src='resources/Compacting.png' width='400px' align='center'>
+  >      <img src='../resources/Compacting.png' width='400px' align='center'>
   >
   >      - 참조되지 않는 객체를 제거하고 남은, 참조되는 객체들을 묶는다.
   >      - 묶으면 공간이 생기므로, 새로운 메모리 할당 시 더 쉽고 빠르게 진행된다.
@@ -204,7 +204,7 @@
   >
   >      
   >
-  >      <img src='resources/General1.png' width='450px' align='center'>
+  >      <img src='../resources/General1.png' width='450px' align='center'>
   >
   >      - 처음 생성된 객체는 Eden 영역에 할당된다.
   >
@@ -216,7 +216,7 @@
   >
   >   2. Eden 영역이 꽉 차면 Survivor 영역으로 넘어간다. <small>(단, Survivor 영역 중 하나는 반드시 비어있어야 한다.)</small>
   >
-  >      <img src='resources/General2.png' width='450px' align='center'>
+  >      <img src='../resources/General2.png' width='450px' align='center'>
   >
   >      - Survivor 영역에 있는 객체는 올라가 있는 Survivor 영역이 꽉 찰 때 다시 GC 심사를 받는다.
   >
@@ -227,13 +227,13 @@
   >
   >      - 객체의 크기가 Survivor 영역의 크기보다 큰 경우, Survivor 영역을 거치지 않고 바로 Old 영역으로 이동할 수 있다.
   >
-  >        > <img src='resources/General3.png' width='450px' aling='center'>
+  >        > <img src='../resources/General3.png' width='450px' aling='center'>
   >
   >      <br/>
   >
   >   3. 이 과정에서 오랫동안 살아남은 객체는 Old 영역으로 이동한다.
   >
-  >      <img src='resources/General4.png' width='450px' align='center'>
+  >      <img src='../resources/General4.png' width='450px' align='center'>
   >
   >      - Old 영역에 들어간 객체는 풀 GC, 메이저 GC가 발생하지 않는 한 GC되지 않는다.
 
