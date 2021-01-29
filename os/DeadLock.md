@@ -15,7 +15,7 @@
     - 서로 다른 프로세스가 점유하고 있는 자원을 요구하며 
     - 무한정 기다리는 현상을 의미한다.
   
-    <img src='resources/deadlock.JPG' width='400px' align='center'>
+    <img src='../resources/deadlock.JPG' width='400px' align='center'>
   
   > 상호 배제 기법 (Mutual Exclusion, Mutex) 이란?
   >
@@ -130,7 +130,7 @@
     >
     > \* 예시
     >
-    > <img src='resources/banker1.JPG' width='500px' align='center'>
+    > <img src='../resources/banker1.JPG' width='500px' align='center'>
     >
     > - 은행이 빌려줄 수 있는 총 금액 100달러
     >
@@ -162,7 +162,7 @@
     >
     > - 반면, 고객1이 최소 35달러가 당장 필요하다고 해서 35달러를 빌려줬다고 가정했을 때,
     >
-    > <img src='resources/banker2.JPG' width='500px' align='center'>
+    > <img src='../resources/banker2.JPG' width='500px' align='center'>
     >
     > - 은행에 남은 돈이 5달러 밖에 남지 않아 아무도 해결해줄 수 없다.
     > - 이 상태를 <mark>불안전 상태, 또는 데드락 상태</mark>라고 한다.
@@ -188,7 +188,7 @@
 
     > <b>자원 할당 그래프</b>
     >
-    > <img src='resources/ragraph.png' width='300px' align='center'>
+    > <img src='../resources/ragraph.png' width='300px' align='center'>
     >
     > - 자원 할당 그래프란?
     >   - 프로세스와 자원간의 관계를 나타내는 그래프
@@ -203,13 +203,13 @@
     >
     >   2. 사이클이 존재하면 자원 유형에 하나의 사례만 있으면 교착상태이다.
     >
-    >      <img src='resources/ragraph_dead.png' width='300px' align='center'>
+    >      <img src='../resources/ragraph_dead.png' width='300px' align='center'>
     >
     >      <br/>
     >
     >   3. 자원 유형에 여러 사례가 있으면 교착 상태 가능성이 있는 것이다.
     >
-    >      <img src='resources/ragraph_posi.png' width='300px' align='center'>
+    >      <img src='../resources/ragraph_posi.png' width='300px' align='center'>
     >
     >      - P1이 작업을 완료하고 R3의 자원을 반납하면 P3가 할당 받는다.
 
