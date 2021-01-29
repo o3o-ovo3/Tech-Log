@@ -134,7 +134,7 @@
 
   > instanceof 연산자의 형태
   >
-  > <img src='resources/instanceof.png' width='300px' align='center'>
+  > <img src='../resources/instanceof.png' width='300px' align='center'>
   >
   > - instanceof 연산자의 결과 값은 boolean 타입으로 true, false를 반환 값으로 가진다.
   >
