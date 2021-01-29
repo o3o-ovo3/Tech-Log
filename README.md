@@ -29,7 +29,7 @@
 - #### [프로그래밍 패러다임](./sw/ProgrammingParadigm.md)
 - #### [싱글톤 패턴](./sw/Singleton.md)
 - #### [Docker](./sw/Docker.md)
-- #### [OOP)(./sw/OOP.md)
+- #### [OOP](./sw/OOP.md)
 <br/>
 
 ### 🟢 Network
