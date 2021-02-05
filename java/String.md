@@ -36,7 +36,7 @@
   >   > - String 객체는 내부 데이터를 수정할 수 없으므로 "ABCDEF"라는 <mark>새로운 객체</mark>가 생성되고, data 변수는 이 객체를 참조한다.
   >   > - 기존에 있던 객체는 참조되지 않게 되어 가비지 컬렉션의 메모리 해제를 기다리게 된다.
   >   >
-  >   > <img src='resources/String.png' width='300px' align='center'>
+  >   > <img src='../resources/String.png' width='300px' align='center'>
   >
   > <br/>
   >
