@@ -44,7 +44,26 @@
 - #### [자바 언어의 동작 원리](./java/JavaOperation.md)
 - #### [자바 업캐스팅 다운캐스팅](./java/JavaCasting.md)
 - #### [자바 GC](./java/GC.md)
+- #### [String, StringBuffer, StringBuilder 차이](./java/String.md)
+- #### [상속과 구성](./java/InheriAndCompo.md)
+- #### [Primitive Type과 Reference Type](./java/JavaType.md)
+<br/>
 
+### 🟣 Data Structure
+- #### [Heap](./datastructure/Heap.md)
+- #### [스택과 큐](./datastructure/StackAndQueue.md)
+<br/>
+
+### 🟤 Database
+- #### [정규화](./db/Normalization.md)
+<br/>
+
+### ⚫ Algorithm
+- #### [버블 정렬](./algorithm/BubbleSort.md)
+<br/>
+
+### ⚪ Git
+- #### [Git 브랜치 전략](./git/GitBranch.md)
 <br/>
 
 ### 🌵 Remind Technical Interview
