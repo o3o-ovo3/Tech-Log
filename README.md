@@ -12,6 +12,7 @@
 - #### [브라우저 동작 과정](./web/BrowserOperation.md)
 - #### [React, Vue, Angular](./web/ReactVueAngular.md)
 - #### [PWA](./web/PWA.md)
+- #### [WAS와 Web Server](./web/WASandWebServer.md)
 
 <br/>
 
@@ -47,6 +48,9 @@
 - #### [String, StringBuffer, StringBuilder 차이](./java/String.md)
 - #### [상속과 구성](./java/InheriAndCompo.md)
 - #### [Primitive Type과 Reference Type](./java/JavaType.md)
+- #### [static과 final의 차이](./java/StaticAndFinal.md)
+- #### [Abstract와 Interface](./java/AbstractAndInterface.md)
+- #### [제네릭](./java/Generic.md)
 <br/>
 
 ### 🟣 Data Structure
@@ -56,6 +60,8 @@
 
 ### 🟤 Database
 - #### [정규화](./db/Normalization.md)
+- #### [RDBMS와 NoSQL 차이](./db/RDBMSandNoSQL.md)
+- #### [SQL, DDL, DML, DCL](./db/DataLanguage.md)
 <br/>
 
 ### ⚫ Algorithm
