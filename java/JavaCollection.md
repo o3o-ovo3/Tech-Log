@@ -55,7 +55,7 @@
 
     - Map은 구조상의 차이(Key-Value)로 인해 별도로 정의한다.
 
-    <img src='resources/JCF.png' width='450px' align='center'>
+    <img src='../resources/JCF.png' width='450px' align='center'>
 
     
 
@@ -68,7 +68,7 @@
     - List : 순서를 유지한 상태로 데이터를 저장하고, 중복 저장이 가능하다.
     - Queue : List와 흡사하며, 처리 전 요소를 보유하는데 사용한다.
 
-    <img src='resources/collections.png' width='500px' align='center'>
+    <img src='../resources/collections.png' width='500px' align='center'>
 
     
 
@@ -79,7 +79,7 @@
     - Key-Value 형태의 저장 공가에 데이터를 담는다.
     - Map : Key와 Value를 하나의 쌍으로 묶어서 관리하고, Key는 중복으로 저장할 수 없다.
 
-    <img src='resources/map.png' width='400px' align='center'>
+    <img src='../resources/map.png' width='400px' align='center'>
 
 <br/>
 
