@@ -157,7 +157,7 @@
 
   - 단일 연결 리스트 
 
-    <img src='resources/singly.png' width='400px' align='center'>
+    <img src='../resources/singly.png' width='400px' align='center'>
 
     - 요소의 저장과 삭제 작업이 다음 요소를 가리키는 참조만 변경하면 되므로 아주 빠른 처리가 가능하다.
     - 그러나 현재 요소에서 이전 요소로 접근하기 매우 어렵다.
@@ -168,7 +168,7 @@
 
   - 이중 연결 리스트
 
-    <img src='resources/doubly.png' width='400px' align='center'>
+    <img src='../resources/doubly.png' width='400px' align='center'>
 
     - 이전 요소를 가리키는 참조도 가진다.
     - LinkedList 클래스도 위와 같은 이중 연결 리스트를 내부적으로 구현한 것이다.
