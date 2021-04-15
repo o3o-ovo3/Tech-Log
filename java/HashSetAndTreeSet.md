@@ -18,7 +18,7 @@
 
 - 자료구조를 몰라도 트리 기반으로 데이터를 저장할 수 있고, 알고리즘을 몰라도 이진 탐색을 수행할 수 있다.
 
-  <img src='resources/collection.JPG' width='450px' align='center'>
+  <img src='../resources/collection.JPG' width='450px' align='center'>
 
   - 컬렉션 프레임워크의 인터페이스 구조
 
@@ -64,7 +64,7 @@
 
   - 실행 결과
 
-    <img src='resources/SetCollectionFeature.JPG' width='250px' align='center'>
+    <img src='../resources/SetCollectionFeature.JPG' width='250px' align='center'>
 
     - 저장 순서가 유지되지 않는다.
       - 유지하고자 한다면 LinkedHashSet을 이용해야 한다.
@@ -101,7 +101,7 @@
     }
     ```
 
-    <img src='resources/HashSetEqualityOne.JPG' width='250px' align='center'>
+    <img src='../resources/HashSetEqualityOne.JPG' width='250px' align='center'>
 
     - 7799 값을 지닌 두 인스턴스가 서로 다른 인스턴스로 간주되어 둘 다 저장이 되었다.
     - HashSet\<E> 이 판단하는 동일 인스턴스의 기준은, Object 클래스에 정의되어 있는 다음 두 메소드의 호출 결과를 근거로 하기 때문이다.
@@ -189,7 +189,7 @@
     }
     ```
 
-    <img src='resources/HashSetEqualityTwo.JPG' width='200px' align='center'>
+    <img src='../resources/HashSetEqualityTwo.JPG' width='200px' align='center'>
 
     - 참고로 String 클래스는 문자열의 내용 비교가 이뤄지도록 hashCode와 equals를 적절히 오버라이딩 하고 있다.
     - 따라서 HashSet\<E> 인스턴스에는 동일한 문자열을 지니는 String 인스턴스가 둘 이상 저장되지 않는다.
@@ -225,7 +225,7 @@
     }
     ```
 
-    <img src='resources/SortedTreeSet.JPG' width='200px' align='center'>
+    <img src='../resources/SortedTreeSet.JPG' width='200px' align='center'>
 
     - TreeSet\<E> 인스턴스가 정렬 상태를 유지하면서 인스턴스를 저장한다.
     - 따라서 TreeSet\<E>의 반복자는 인스턴스들의 참조 순서를 오름차순을 기준으로 한다는 특징을 갖는다.
@@ -285,7 +285,7 @@
     }
     ```
 
-    <img src='resources/ComparablePerson.JPG' width='250px' align ='center'>
+    <img src='../resources/ComparablePerson.JPG' width='250px' align ='center'>
 
     - 인자로 전달된 인스턴스의 나이가 더 많으면 음수가 반환된다.
       - 정렬 순서상 뒤쪽에 위치하게 된다.
