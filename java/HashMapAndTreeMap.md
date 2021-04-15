@@ -26,7 +26,7 @@
 - <b>Map 인터페이스 메소드</b>
 
   - 키로 객체들을 관리하기 때문에, 키를 파라미터로 갖는 메소드가 많다.
-    <img src='resources/MapInterface.png' width='500px' align='center'>
+    <img src='../resources/MapInterface.png' width='500px' align='center'>
 
   <br/>
 
@@ -123,7 +123,7 @@
 
   - 실행 결과
 
-    <img src='resources/HashMapCollection.JPG' width='200px' align='center'>
+    <img src='../resources/HashMapCollection.JPG' width='200px' align='center'>
 
     - HashMap <K, V> 클래스는 Iterable\<T> 인터페이스를 구현하지 않으니 for-each 문을 통해서, 혹은 '반복자'를 얻어서 순차적 접근을 진행할 수 없다.
     - 대신에 Map<K, V>에는 <code>public Set\<K> keySet()</code> 메소드가 존재한다.
@@ -182,7 +182,7 @@
     
     ```
 
-    <img src='resources/HashMapIteration.JPG' width='250px' align='center'>
+    <img src='../resources/HashMapIteration.JPG' width='250px' align='center'>
 
     - <code>Set\<Integer> ks = map.KeySet();</code>
       - Set\<E>는 Iterable\<E>을 상속하므로 예제에서 보이듯 위의 문장 실행 이후 for-each문을 통해, 또는 반복자를 얻어 순차적 접근을 진행할 수 있다.
@@ -205,7 +205,7 @@
 
   - 키로 사용할 객체는 hashCode()와 equals() 메소드를 재정의해서 동등 객체가 될 조건을 정해야 한다.
 
-    <img src='resources/Hashtable.png' width='500px' align='center'>
+    <img src='../resources/Hashtable.png' width='500px' align='center'>
 
 <br/>
 
@@ -278,7 +278,7 @@
     }
     ```
 
-  <img src='resources/TreeMapIteration.JPG' width='250px' align='center'>
+  <img src='../resources/TreeMapIteration.JPG' width='250px' align='center'>
 
   - Key에 해당하는 나이 정보가 오름차순으로 출력되었다.
   - 반복자는 오름차순으로 Key에 접근한다.
