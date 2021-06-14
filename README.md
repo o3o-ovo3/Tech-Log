@@ -74,6 +74,7 @@
 
 ### ⚫ Algorithm
 - #### [버블 정렬](./algorithm/BubbleSort.md)
+- #### [Dynamic Programming](./algorithm/DynamicProgramming.md)
 <br/>
 
 ### ⚪ Git
