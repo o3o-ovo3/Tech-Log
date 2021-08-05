@@ -92,3 +92,4 @@
 * [TCP와 UDP의 차이](./docs/interview/DiffToTcpAndUdp.md)
 * [DID 란?](./docs/interview/Did.md)
 * [Oracle과 MySQL의 차이](./docs/interview/OracleAndMySql.md)
+* [IoC란?](./docs/interview/IoCAndDI.md)
