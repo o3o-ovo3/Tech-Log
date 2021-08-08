@@ -13,6 +13,8 @@
 - #### [React, Vue, Angular](./web/ReactVueAngular.md)
 - #### [PWA](./web/PWA.md)
 - #### [WAS와 Web Server](./web/WASandWebServer.md)
+- #### [Get 방식과 Post 방식](./web/GetAndPost.md)
+- #### [Spring MVC 패턴](./web/SpringMVC.md)
 
 <br/>
 
