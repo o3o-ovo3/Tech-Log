@@ -139,7 +139,7 @@
 
 Q1) UI란 무엇인가?
 
-A1) 사용자가 제품 또는 서비스와 상호작용할 수 있도록 ㅁ나든 매개체로, 보편적이고 직관적인 디자인에 초점을 둔다.
+A1) 사용자가 제품 또는 서비스와 상호작용할 수 있도록 만든 매개체로, 보편적이고 직관적인 디자인에 초점을 둔다.
 
 <br/>
 
@@ -156,4 +156,4 @@ A2) 사용자가 제품 또는 서비스를 사용할 때 겪은 모든 행동, 
 - https://khj93.tistory.com/entry/GET-%EB%B0%A9%EC%8B%9D%EA%B3%BC-POST-%EB%B0%A9%EC%8B%9D-%EC%9D%B4%EB%9E%80-%EC%B0%A8%EC%9D%B4%EC%A0%90
 - https://mangkyu.tistory.com/17
 - https://all-record.tistory.com/100
-- 
+-
