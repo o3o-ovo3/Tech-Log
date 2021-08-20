@@ -101,3 +101,4 @@
 * [Oracle과 MySQL의 차이](./docs/interview/OracleAndMySql.md)
 * [IoC란?](./docs/interview/IoCAndDI.md)
 * [DI란?](./docs/interview/DI.md)
+* [MSA란?](./docs/interview/MSA.md)
