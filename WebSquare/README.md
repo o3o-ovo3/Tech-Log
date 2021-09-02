@@ -11,4 +11,5 @@
 <br/>
 <br/>
 <hr>
-🔖 [책갈피](https://www.youtube.com/watch?v=KeHyCNx-z0o)
+#### 🔖 책갈피
+- [웹스퀘어5 개발자 온라인 교육 과정](https://www.youtube.com/watch?v=KeHyCNx-z0o) - 3:32:37
