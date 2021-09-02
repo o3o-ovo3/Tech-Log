@@ -1,6 +1,8 @@
 # WebSquare5 배워보기 - 개발자 과정
 
+✍️ *Written by Yunju Jang*
 
+ 🚩*2021.09.02*
 
 ## 1. WebSquare5 란?
 
