@@ -102,9 +102,9 @@
 
     - ex. 코드로 나왔던 데이터를 코드 이름으로 출력
 
-      <img src = '../resources/01.png' width = '600px' align='center'>
+      <img src = "../resources/01.png" width = "600px" align="center">
 
-      <img src = '../resources/02.png' width = '600px' align = 'center'>
+      <img src = "../resources/02.png" width = "600px" align = "center">
 
   <br/>
 
