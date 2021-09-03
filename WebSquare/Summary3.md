@@ -60,7 +60,7 @@
 
     - DataCollection에서 컴포넌트로 drag&drop을 통해 매핑할 수 있다.
 
-      <img src="../../resources/image.png" width="600px" align="center">
+      <img src="../resources/image.png" width="600px" align="center">
 
     - 이렇게 Reference를 사용할 경우 script 코딩을 현저히 줄일 수 있다.
 
@@ -102,9 +102,9 @@
 
     - ex. 코드로 나왔던 데이터를 코드 이름으로 출력
 
-      <img src = '../../resources/01.png' width = '600px' align='center'>
+      <img src = '../resources/01.png' width = '600px' align='center'>
 
-      <img src = '../../resources/02.png' width = '600px' align = 'center'>
+      <img src = '../resources/02.png' width = '600px' align = 'center'>
 
   <br/>
 
