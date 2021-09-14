@@ -105,3 +105,6 @@
 
 <br/>
 <br/>
+
+### 💡 개발 Tips
+* [Windows cmd에서 tail 명령어 사용하기](./tips/WindowsTail.md)
