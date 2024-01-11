@@ -92,6 +92,10 @@
 - #### [Git 브랜치 전략](./git/GitBranch.md)
 <br/>
 
+### 🟥 Kubernetes
+- #### [쿠버네티스와 컨테이너, 도커의 정의 및 관계 정리](./kubernetes/Kubernetes.md)
+<br/>
+
 ### 🌵 Remind Technical Interview
 
 * [stack과 heap의 차이](./docs/interview/DiffToStackAndHeap.md)
