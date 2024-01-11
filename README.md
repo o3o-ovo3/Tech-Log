@@ -93,7 +93,7 @@
 <br/>
 
 ### 🟥 Kubernetes
-- #### [쿠버네티스와 컨테이너, 도커의 정의 및 관계 정리](./kubernetes/Kubernetes.md)
+- #### [쿠버네티스와 컨테이너, 도커의 정의 및 관계 정리](./kubernetes/Kubernetes_01.md)
 <br/>
 
 ### 🌵 Remind Technical Interview
